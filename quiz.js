@@ -16,7 +16,7 @@ function startGame() {
   startButton.classList.add('hide')
   shuffledQuestions = questions.sort(() => Math.random() - .5)
   currentQuestionIndex = 0
-  totalScore = -4
+  totalScore = -5
   questionContainerElement.classList.remove('hide')
   setNextQuestion()
 }
