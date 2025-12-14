@@ -99,7 +99,7 @@ const questions = [
     ]
   },
   {
-    question: 'Which is not a programming language',
+    question: 'Which is not a programming language?',
     answers: [
       { text: 'Python', correct: false },
       { text: 'HTML', correct: true },
