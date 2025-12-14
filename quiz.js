@@ -113,5 +113,12 @@ const questions = [
       { text: 'Linked List', correct: false },
       { text: 'Hash Table', correct: true }
     ]
+  },
+  {
+    question: 'Which one is used for making web apps attractive?',
+    answers: [
+      { text: 'Java Script', correct: false },
+      { text: 'CSS', correct: true }
+    ]
   }
 ]
