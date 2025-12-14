@@ -14,6 +14,7 @@ body {
   padding: 0;
   margin: 0;
   display: flex;
+  flex: 1;
   width: 100vw;
   height: 100vh;
   justify-content: center;
@@ -32,6 +33,7 @@ body.wrong {
 .container {
   width: 800px;
   max-width: 80%;
+  flex: 1;
   background-color: wheat;
   border-radius: 5px;
   padding: 10px;
@@ -88,4 +90,16 @@ body.wrong {
 .question-display {
     display: flex;
     justify-content: center;
+}
+
+footer {
+  position: fixed;       
+  bottom: 0;             
+  left: 0;              
+  width: 100%;           
+  background-color: #222; 
+  color: #fff;           
+  text-align: center;    
+  padding: 10px;
+  font-size: 5px;         
 }
