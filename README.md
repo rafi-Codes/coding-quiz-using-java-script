@@ -19,5 +19,15 @@ The quiz contains **5 questions**, each worth **1 point**, and displays the user
 - CSS
 - HTML
 
-## Tutotiral 
+## 🔗 Tutotiral 
 - https://youtu.be/riDzcEQbX6k?si=3JSusWEKOzQs_zcI
+
+---
+
+## ✏️ Steps
+- 1st I opened the folder for this project,
+- Then opened the files I will need.
+- Initializing git in it.
+- Then connecting it with my remote github repo.
+- Then after completing the code I used vercel to deploy it.
+
